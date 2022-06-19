@@ -1,0 +1,10 @@
+// Typing
+@keyframes typing {
+    40%,
+    60% {
+      left: calc(100% + 30px);
+    }
+    100% {
+      left: 0;
+    }
+  }
